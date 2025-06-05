@@ -1,0 +1,24 @@
+{
+  "name": "first-npm-library",
+  "version": "1.0.0",
+  "description": "Primer libreria npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mfer17/first-npm-library.git"
+  },
+  "keywords": [
+    "primer",
+    "liberia",
+    "npm"
+  ],
+  "author": "Maria Fernanda Monoga Mejia <mariafernandamonogamejia@gmail.com> (https://mfer17.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mfer17/first-npm-library/issues"
+  },
+  "homepage": "https://github.com/mfer17/first-npm-library#readme"
+}
