@@ -4,5 +4,8 @@ module.exports = {
     },
     holaPersonalizado: function(nombre){
         console.log(`Hola, ${nombre}!`);
+    },
+    holaCursoNPM: function(nombreCurso) {
+        console.log(`Hola, ${nombreCurso}!`);
     }
 }
